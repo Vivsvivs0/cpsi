@@ -4,7 +4,12 @@
   padding: 2rem;
   text-align: center;
 }
-
+body{
+  background-color: rgb(255, 200, 200);
+}
+p{
+  color: black;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
